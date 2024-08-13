@@ -1,0 +1,6 @@
+res://default_env.tres
+res://console_window/console_window.tscn
+res://console_window/command_module.gd
+res://console_window/command_group.gd
+res://console_window/command.gd
+res://console_window/console_window.gd
